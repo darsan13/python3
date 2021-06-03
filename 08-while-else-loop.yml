@@ -1,0 +1,15 @@
+#!/bin/python3
+# The above line is called as HashBang or ShBang line
+
+n = 5
+
+sum = 0
+
+c = 0
+
+while c < n:
+  print("Inside the loop")
+  c = c+1
+else:
+  print("Inside the Else")
+
